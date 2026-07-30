@@ -1,0 +1,1 @@
+algunas secciones utilizan PHP y MySQL, por lo que no funciona directamente en GitHub Pages. Para probarla, ejecute el proyecto en un servidor local (XAMPP) e importe la base de datos incluida en la carpeta llamada bd
